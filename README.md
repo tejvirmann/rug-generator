@@ -1,26 +1,20 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
-│▓ ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ ▓│
-│▓ ·  ╔═════════════════════════════════════════════════════════════════════╗  · ▓│
-│▓ ❧  ║ · ✦ · · ✿ · · ✦ · · ✿ · · ✦ · · ✿ · · ✦ · · ✿ · · ✦ · · ✿ · · ║  ❧ ▓│
-│▓ ·  ║ ✿ · ◆ · · ❁ · · ◆ · · ❁ · · ◆ · · ❁ · · ◆ · · ❁ · · ◆ · · ❁ · ║  · ▓│
-│▓ ✿  ║ · ◆ · ◆ · · ◆ · ◆ · · ◆ · ◆ · · ◆ · ◆ · · ◆ · ◆ · · ◆ · ◆ · · ║  ✿ ▓│
-│▓ ·  ║ ❁ · · ◆◆◆ · · ◈ · ◈◈◈◈◈ · ◈ · · ◈◈◈◈◈◈◈◈◈ · ◈ · · ◈◈◈◈◈ · ◈ · ❁ ║  · ▓│
-│▓ ❧  ║ · ◆ · ◆◆◆ · ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈ · ◆ · ║  ❧ ▓│
-│▓ ·  ║ ✿ ◆◆◆◆◆◆◆◆◆◆ ◈◈◈◈◈◈◈◈◈◈◈◈◈  A N T I Q U E  ◈◈◈◈◈◈◈◈◈◈◈◈◈ ◆◆◆◆ ✿ ║  · ▓│
-│▓ ✿  ║ · ◆◆◆◆◆◆◆◆◆◆ ◈◈◈◈◈◈◈◈◈◈◈  R U G  G E N E R A T O R  ◈◈◈◈◈◈◈◈◈◈ ◆◆ · ║  ✿ ▓│
-│▓ ·  ║ ❁ · ◆ · ◆◆◆ · ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈ · ◆ · ║  · ▓│
-│▓ ❧  ║ · ◆ · ◆◆◆ · · ◈ · ◈◈◈◈◈ · ◈ · · ◈◈◈◈◈◈◈◈◈ · ◈ · · ◈◈◈◈◈ · ◈ · ❁ ║  ❧ ▓│
-│▓ ·  ║ ✿ · ◆ · · ◆ · ◆ · · ◆ · ◆ · · ◆ · ◆ · · ◆ · ◆ · · ◆ · ◆ · · ✿ ║  · ▓│
-│▓ ✿  ║ · ✦ · · ✿ · · ✦ · · ✿ · · ✦ · · ✿ · · ✦ · · ✿ · · ✦ · · ✿ · · ║  ✿ ▓│
-│▓ ·  ╚═════════════════════════════════════════════════════════════════════╝  · ▓│
-│▓ ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ · ❧ · ✿ ▓│
-│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
-└─────────────────────────────────────────────────────────────────────────────────┘
-           Antique Sarouk  ·  Deep Crimson field  ·  200 × 300 knots
++-------------------------------------------------------------------------------+
+|#############################################################################|
+|# * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - #|
+|# . +---------------------------------------------------------------------+ . #|
+|# . |  + - * - + - * - + - * - + - * - + - * - + - * - + - * - + - * - +  | . #|
+|# . |  * . + . * . + . * . + . * . + . * . + . * . + . * . + . * . + . *  | . #|
+|# . |                        ANTIQUE  RUG  GENERATOR                       | . #|
+|# . |  * . + . * . + . * . + . * . + . * . + . * . + . * . + . * . + . *  | . #|
+|# . |  + - * - + - * - + - * - + - * - + - * - + - * - + - * - + - * - +  | . #|
+|# . +---------------------------------------------------------------------+ . #|
+|# * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - #|
+|#############################################################################|
++-------------------------------------------------------------------------------+
+              Antique Sarouk  .  Deep Crimson field  .  200 x 300 knots
 ```
 
 **Procedurally generated antique rug knot-grid patterns.**
@@ -38,245 +32,251 @@ _Every cell is a knot. Every design is deterministic, symmetrical, and exportabl
 
 ---
 
-## ✦ Four Styles. Infinite Patterns.
-
-Each style has its own structural grammar, motif vocabulary, and historical palette — generated procedurally, never the same twice.
+## Four Styles. Infinite Patterns.
 
 ```
- ╔═══════════════════╗  ╔═══════════════════╗  ╔═══════════════════╗  ╔═══════════════════╗
- ║▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓║  ║░░░░░░░░░░░░░░░░░░║  ║█████████████████▓║  ║▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒║
- ║▓ ✿·❧·✿·❧·✿·❧·✿ ▓║  ║░ ◆·◇·◆·◇·◆·◇·◆ ░║  ║▓ ❀·✦·❀·✦·❀·✦·❀ ▓║  ║▒ ❧·✿·❧·✿·❧·✿·❧ ▒║
- ║▓ ❧ ┌──────────┐ ❧▓║  ║░ ◇ ┌──────────┐ ◇░║  ║▓ ✦ ┌──────────┐ ✦▓║  ║▒ ✿ ┌──────────┐ ✿▒║
- ║▓ · │ ✿ ◈◈◈ ✿ │ · ▓║  ║░ ◆ │ ▲ ◆◇◆ ▲ │ ◆░║  ║▓ ❀ │ ✦ ◈◈◈ ✦ │ ❀▓║  ║▒ ❧ │ ◆ ◈◈◈ ◆ │ ❧▒║
- ║▓ ✿ │◈◈◈◈◈◈◈◈◈│ ✿ ▓║  ║░ · │◆◆◈◈◈◈◈◆◆│ · ░║  ║▓ · │◈◈◈◈◈◈◈◈◈│ · ▓║  ║▒ · │◈◈◈◈◈◈◈◈◈│ · ▒║
- ║▓ ❧ │◈◈◈●◉●◈◈◈│ ❧ ▓║  ║░ ◇ │◆◆◈◉◉◉◈◆◆│ ◇ ░║  ║▓ ✦ │◈◈◈●◉●◈◈◈│ ✦ ▓║  ║▒ ✿ │◈◈◈◉◉◉◈◈◈│ ✿▒║
- ║▓ · │◈◈◈◈◈◈◈◈◈│ · ▓║  ║░ ◆ │◆◆◈◈◈◈◈◆◆│ ◆ ░║  ║▓ · │◈◈◈◈◈◈◈◈◈│ · ▓║  ║▒ · │◈◈◈◈◈◈◈◈◈│ · ▒║
- ║▓ ✿ │ ✿ ◈◈◈ ✿ │ ✿ ▓║  ║░ · │ ▲ ◆◇◆ ▲ │ · ░║  ║▓ ❀ │ ✦ ◈◈◈ ✦ │ ❀▓║  ║▒ ❧ │ ◆ ◈◈◈ ◆ │ ❧▒║
- ║▓ ❧ └──────────┘ ❧▓║  ║░ ◇ └──────────┘ ◇░║  ║▓ ✦ └──────────┘ ✦▓║  ║▒ ✿ └──────────┘ ✿▒║
- ║▓ ✿·❧·✿·❧·✿·❧·✿ ▓║  ║░ ◆·◇·◆·◇·◆·◇·◆ ░║  ║▓ ❀·✦·❀·✦·❀·✦·❀ ▓║  ║▒ ❧·✿·❧·✿·❧·✿·❧ ▒║
- ║▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓║  ║░░░░░░░░░░░░░░░░░░║  ║█████████████████▓║  ║▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒║
- ╚═══════════════════╝  ╚═══════════════════╝  ╚═══════════════════╝  ╚═══════════════════╝
-   ANTIQUE SAROUK          HERIZ GEOMETRIC         KASHAN FLORAL          TABRIZ CLASSIC
-   Deep Crimson            Brick Red               Royal Burgundy         Warm Camel
-   Dense florals           Bold, angular           Refined, intricate     Elegant, balanced
-```
++---------------------+   +---------------------+
+|#####################|   |░░░░░░░░░░░░░░░░░░░░░|
+|# * - * - * - * - v #|   |░ # + # + # + # + ^ ░|
+|# . +-----------+ . #|   |░ . +-----------+ . ░|
+|# . | * + * + * | . #|   |░ . | # ^ # ^ # | . ░|
+|# . | o o @ o o | . #|   |░ . | ^ # @ # ^ | . ░|
+|# . | * + * + * | . #|   |░ . | # ^ # ^ # | . ░|
+|# . +-----------+ . #|   |░ . +-----------+ . ░|
+|# * - * - * - * - v #|   |░ # + # + # + # + ^ ░|
+|#####################|   |░░░░░░░░░░░░░░░░░░░░░|
++---------------------+   +---------------------+
+  ANTIQUE SAROUK              HERIZ GEOMETRIC
+  Deep Crimson . Navy         Brick Red . Indigo
+  Dense floral vines          Bold, angular forms
 
----
-
-## 📐 The Knot Grid
-
-Every pixel you see is a physical knot in the final rug. The generator outputs a 2D grid of color indices — the exact chart a weaver follows.
-
-```
-  ┌────── RAW KNOT CHART (CSV export, 24×12 sample) ──────┐
-  │  Col →  0  1  2  3  4  5  6  7  8  9 10 11 12 ...    │
-  │  Row 0  1  1  1  1  1  1  1  1  1  1  1  1  1        │  ← border (Navy)
-  │  Row 1  1  2  2  2  2  2  2  2  2  2  2  2  1        │  ← guard (Ivory)
-  │  Row 2  1  2  0  0  0  3  0  0  0  3  0  0  2  1     │  ← field begins
-  │  Row 3  1  2  0  3  5  5  5  3  0  3  5  5  2  1     │  ← vines (Green)
-  │  Row 4  1  2  0  3  5  4  5  3  0  5  4  5  2  1     │  ← flower (Gold)
-  │  Row 5  1  2  0  0  5  5  5  1  1  1  5  5  2  1     │  ← medallion (Navy)
-  │  Row 6  1  2  0  0  1  1  1  1  4  1  1  1  2  1     │  ← medallion center
-  │  ...                                                   │
-  │  Legend:  0=Crimson  1=Navy  2=Ivory  3=Green         │
-  │           4=Gold     5=Rose  6=Cobalt 7=Terracotta    │
-  └────────────────────────────────────────────────────────┘
-          ↑ this is what the CSV export contains
++---------------------+   +---------------------+
+|▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|   |▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒|
+|▓ * . * . * . * . * ▓|   |▒ + - * - + - * - + ▒|
+|▓ . +-----------+ . ▓|   |▒ . +-----------+ . ▒|
+|▓ . | * o * o * | . ▓|   |▒ . | + o + o + | . ▒|
+|▓ . | o @ @ @ o | . ▓|   |▒ . | o + @ + o | . ▒|
+|▓ . | * o * o * | . ▓|   |▒ . | + o + o + | . ▒|
+|▓ . +-----------+ . ▓|   |▒ . +-----------+ . ▒|
+|▓ * . * . * . * . * ▓|   |▒ + - * - + - * - + ▒|
+|▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|   |▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒|
++---------------------+   +---------------------+
+  KASHAN FLORAL               TABRIZ CLASSIC
+  Royal Burgundy . Gold       Warm Camel . Deep Red
+  Refined, intricate          Elegant, balanced
 ```
 
 ---
 
-## ✦ Symmetry: Generate ¼, Reflect Everything
+## The Knot Grid
 
-Almost all antique rugs are bi-axially symmetric. The engine generates **one quadrant** and mirrors it, then draws the border and medallion on the full grid.
-
-```
-  Input: seed "a7f2c9" + style "sarouk"
-
-  ┌──────────┬──────────┐    ┌──────────────────────┐
-  │          │          │    │ ✿  ❧  ✿  ❧  ✿  ❧  ✿ │  ← border (full width)
-  │  QUADRANT│  mirror→ │    │ ❧ ┌────────────┐  ❧ │
-  │  generated│         │    │ ✿ │◈◈◈◈◈◈◈◈◈◈◈◈│  ✿ │  ← field (mirrored)
-  │  (top-left│         │ →  │ ❧ │◈◈◈ ●◉● ◈◈◈│  ❧ │  ← medallion (centered)
-  │          │         │    │ ✿ │◈◈◈◈◈◈◈◈◈◈◈◈│  ✿ │
-  ├──────────┼──────────┤    │ ❧ └────────────┘  ❧ │
-  │  mirror↓ │  mirror↓→│    │ ✿  ❧  ✿  ❧  ✿  ❧  ✿ │  ← border (mirrored)
-  │          │          │    └──────────────────────┘
-  └──────────┴──────────┘
-  ¼ generated                Full 200×300 knot grid
-```
-
----
-
-## 🔁 The Iteration Loop
-
-Every design is a **structured spec** (`.rug.json`), not just pixels. You change one thing. The rest stays identical.
+Every pixel is one physical knot. The generator outputs a 2D grid of color indices — the exact chart a weaver follows.
 
 ```
-  ┌─ SPEC (saved as .rug.json) ──────────────────────────────────────────┐
-  │  {                                                                    │
-  │    "seed": "a7f2c9",        ← change only this → new random layout  │
-  │    "style": "sarouk",       ← change only this → new style grammar  │
-  │    "layout": {                                                        │
-  │      "field": {                                                       │
-  │        "vineDensity": 0.65, ← change only this → more/fewer vines   │
-  │        "leafRoundness": 0.7 ← change only this → pointier leaves    │
-  │      },                                                               │
-  │      "medallion": {                                                   │
-  │        "sizeX": 0.38        ← change only this → bigger medallion   │
-  │      }                                                                │
-  │    },                                                                 │
-  │    "locks": ["medallion"],  ← lock this → AI won't touch it         │
-  │    "history": [v1, v2, v3]  ← full revert chain                     │
-  │  }                                                                    │
-  └───────────────────────────────────────────────────────────────────────┘
-       ↓ renderer reads spec                ↓ you describe a change
-  ┌────────────┐             ┌──────────────────────────────────────────┐
-  │ knot grid  │             │  You: "make the border simpler"          │
-  │ 200×300    │             │  AI → { op:"set",                        │
-  │ PNG / SVG  │             │          path:"layout.border.motif",     │
-  │ CSV / JSON │             │          value:"geometric" }             │
-  └────────────┘             │  → re-render only the border             │
-                             └──────────────────────────────────────────┘
+  +------ RAW KNOT CHART (CSV export, 13x7 sample) ------+
+  |  Col:  0  1  2  3  4  5  6  7  8  9 10 11 12         |
+  |  Row 0: 1  1  1  1  1  1  1  1  1  1  1  1  1        |  <- border (Navy)
+  |  Row 1: 1  2  2  2  2  2  2  2  2  2  2  2  1        |  <- guard (Ivory)
+  |  Row 2: 1  2  0  0  3  0  0  0  3  0  0  0  1        |  <- field + vines
+  |  Row 3: 1  2  0  3  5  5  5  3  0  3  5  5  1        |  <- flowers (Rose)
+  |  Row 4: 1  2  0  3  5  4  5  3  1  1  1  1  1        |  <- gold accent
+  |  Row 5: 1  2  0  0  5  5  5  1  1  4  1  1  1        |  <- medallion
+  |  Row 6: 1  2  0  0  0  3  0  1  4  4  4  1  1        |  <- medallion ctr
+  |                                                        |
+  |  0=Crimson  1=Navy  2=Ivory  3=Green  4=Gold  5=Rose  |
+  +--------------------------------------------------------+
+            ^ each number = one knot = one color
 ```
 
 ---
 
-## 🎨 Style Palettes
+## Symmetry: Generate 1/4, Reflect Everything
 
 ```
-  ── ANTIQUE SAROUK ──────────────────────────────────────────────────────
-  ████  Deep Crimson   #7B1B1B   field background, dominant color
-  ████  Midnight Navy  #1A2644   border, medallion base
-  ████  Antique Ivory  #F2ECD8   guard stripes, highlights
-  ████  Forest Green   #2D5016   vine scrolls, leaves
-  ████  Warm Gold      #C9A84C   flower accents, medallion detail
-  ████  Dusty Rose     #C47B7B   rosette petals
-  ████  Cobalt Blue    #2B4F8C   accent flowers
-  ████  Terracotta     #B5541A   palmettes
+  seed "a7f2c9" + style "sarouk"
 
-  ── HERIZ GEOMETRIC ─────────────────────────────────────────────────────
-  ████  Brick Red      #9B3A2A   field
-  ████  Deep Indigo    #1F2D5C   border, geometric outlines
-  ████  Cream          #EDE8D5   fill, highlights
-  ████  Burnt Orange   #C4611A   accent shapes
-  ████  Sage Green     #5A7A45   secondary motifs
-  ████  Ochre          #C9A020   medallion accents
-
-  ── KASHAN FLORAL ───────────────────────────────────────────────────────
-  ████  Royal Burgundy #5C0A2E   field (deepest red)
-  ████  Deep Blue      #14264A   border, medallion
-  ████  Emerald        #1A5C35   vine, leaves
-  ████  Pale Gold      #D4AF57   medallion highlights
-  ████  Blush Pink     #D4899A   petals
-
-  ── TABRIZ CLASSIC ──────────────────────────────────────────────────────
-  ████  Warm Camel     #8B6914   field (unusual warm ground)
-  ████  Deep Red       #6B1515   border
-  ████  Ivory          #F0EAD6   fill, rosette centers
-  ████  Gold           #C9A030   medallion, accents
+  +-----------+-----------+     +-------------------------+
+  |           |           |     | * - * - * - * - * - * - |  <- border
+  |  QUADRANT | mirror -> |     | - +---------+  * - * -  |
+  |  generated|           |  -> | * | * o * o |  o * o *  |  <- field
+  |  (top-left|           |     | - | o @ o @ |  @ o @ o  |  <- medallion
+  |           |           |     | * | * o * o |  o * o *  |
+  +-----------+-----------+     | - +---------+  * - * -  |
+  |  mirror v | mirror v->|     | * - * - * - * - * - * - |  <- border
+  |           |           |     +-------------------------+
+  +-----------+-----------+
+   1/4 generated              Full 200x300 knot grid
 ```
 
 ---
 
-## 🤖 AI Mode — Patch Ops, Not Pixels
+## The Iteration Loop
 
-The LLM never touches the grid. It outputs **structured patch operations** on the spec. The renderer applies them deterministically.
+Every design is a `.rug.json` spec, not just pixels. Change one parameter. Everything else stays identical.
 
 ```
-  ┌─ Conversation ──────────────────────────────────────────────────────┐
-  │                                                                      │
-  │  You  ──  "I love everything but the leaves feel too spiky           │
-  │            and the border is too busy. Keep the medallion."          │
-  │                                                                      │
-  │  AI   ──  {                                                          │
-  │             "ops": [                                                  │
-  │               { "op": "set",                                         │
-  │                 "path": "layout.field.leafRoundness",                │
-  │                 "value": 0.88 },                                     │
-  │               { "op": "set",                                         │
-  │                 "path": "layout.border.tileRepeatX",                 │
-  │                 "value": 5 },                                        │
-  │               { "op": "addLock",                                     │
-  │                 "lock": { "type": "region",                          │
-  │                           "regionType": "medallion" } }              │
-  │             ],                                                        │
-  │             "explanation": "Rounded leaves, simplified border,       │
-  │                             medallion locked from changes."          │
-  │           }                                                          │
-  │                                                                      │
-  │  App  ──  applies ops → re-renders → new version saved in history   │
-  └──────────────────────────────────────────────────────────────────────┘
+  +---- SPEC (.rug.json) ------------------------------------------------+
+  |  {                                                                     |
+  |    "seed":     "a7f2c9",   <- reseed this -> new random layout        |
+  |    "style":    "sarouk",   <- change this -> new style grammar        |
+  |    "layout": {                                                         |
+  |      "field": {                                                        |
+  |        "vineDensity":  0.65,  <- change this -> more/fewer vines      |
+  |        "leafRoundness": 0.7   <- change this -> pointier leaves       |
+  |      },                                                                |
+  |      "medallion": {                                                    |
+  |        "sizeX": 0.38          <- change this -> bigger medallion      |
+  |      }                                                                 |
+  |    },                                                                  |
+  |    "locks":   ["medallion"],  <- AI won't touch locked regions        |
+  |    "history": [v1, v2, v3]   <- full revert chain                    |
+  |  }                                                                     |
+  +------------------------------------------------------------------------+
+       |                                  |
+       v                                  v
+  +------------+          +--------------------------------------+
+  | knot grid  |          |  You: "make the border simpler"      |
+  | 200x300    |          |  AI -> { op: "set",                  |
+  | PNG / SVG  |          |          path: "border.motif",       |
+  | CSV / JSON |          |          value: "geometric" }        |
+  +------------+          |  -> re-render border only            |
+                          +--------------------------------------+
+```
 
-  Powered by OpenRouter  ·  Works with Claude, GPT-4, Gemini, and more
+---
+
+## Color Palettes
+
+```
+  ANTIQUE SAROUK --------------------------------------------------------
+  [#7B1B1B]  Deep Crimson    field background, dominant warm red
+  [#1A2644]  Midnight Navy   border, medallion base
+  [#F2ECD8]  Antique Ivory   guard stripes, rosette highlights
+  [#2D5016]  Forest Green    vine scrolls, leaves
+  [#C9A84C]  Warm Gold       flower accents, medallion ring
+  [#C47B7B]  Dusty Rose      rosette petals
+  [#2B4F8C]  Cobalt Blue     accent flowers
+  [#B5541A]  Terracotta      palmettes
+
+  HERIZ GEOMETRIC --------------------------------------------------------
+  [#9B3A2A]  Brick Red       field
+  [#1F2D5C]  Deep Indigo     border, geometric outlines
+  [#EDE8D5]  Cream           fill, highlights
+  [#C4611A]  Burnt Orange    accent shapes
+  [#C9A020]  Ochre           medallion accents
+
+  KASHAN FLORAL ----------------------------------------------------------
+  [#5C0A2E]  Royal Burgundy  field (deepest red)
+  [#14264A]  Deep Blue       border, medallion
+  [#1A5C35]  Emerald         vine, leaves
+  [#D4AF57]  Pale Gold       medallion highlights
+  [#D4899A]  Blush Pink      petals
+
+  TABRIZ CLASSIC ---------------------------------------------------------
+  [#8B6914]  Warm Camel      field (warm golden ground)
+  [#6B1515]  Deep Red        border
+  [#F0EAD6]  Ivory           fill, rosette centers
+  [#C9A030]  Gold            medallion, accents
+```
+
+---
+
+## AI Mode — Patch Ops, Not Pixels
+
+```
+  +---- Conversation ---------------------------------------------------+
+  |                                                                      |
+  |  You -> "I love everything but the leaves feel too spiky            |
+  |          and the border is too busy. Keep the medallion."           |
+  |                                                                      |
+  |  AI  -> {                                                            |
+  |           "ops": [                                                   |
+  |             { "op": "set",                                           |
+  |               "path": "layout.field.leafRoundness",                 |
+  |               "value": 0.88 },                                      |
+  |             { "op": "set",                                           |
+  |               "path": "layout.border.tileRepeatX",                  |
+  |               "value": 5 },                                         |
+  |             { "op": "addLock",                                       |
+  |               "lock": { "type": "region",                           |
+  |                         "regionType": "medallion" } }               |
+  |           ],                                                         |
+  |           "explanation": "Rounded leaves, simpler border,           |
+  |                           medallion locked."                        |
+  |         }                                                            |
+  |                                                                      |
+  |  App -> applies ops -> re-renders -> new version saved              |
+  +----------------------------------------------------------------------+
+
+  Powered by OpenRouter  .  Works with Claude, GPT-4, Gemini, and more
   API key entered in-app, never stored server-side
 ```
 
 ---
 
-## ↓ Export Formats
+## Export Formats
 
 ```
-  ┌───────────────────────────────────────────────────────────────────┐
-  │  PNG  ─── preview render with knot texture shading               │
-  │           2400×3600px at 3× resolution — print-ready             │
-  │                                                                   │
-  │  SVG  ─── run-length encoded vector chart                        │
-  │           scales to any size · editable in Illustrator / Figma   │
-  │                                                                   │
-  │  CSV  ─── raw grid: each cell = palette color index              │
-  │           0,0,1,1,2,0,0,1,1,2,0,0,...                            │
-  │           import into Excel, custom weaving software, etc.        │
-  │                                                                   │
-  │  JSON ─── full .rug.json project file                            │
-  │           { seed, style, palette, layout, locks, history }        │
-  │           reload anytime · feed back to AI for iteration          │
-  └───────────────────────────────────────────────────────────────────┘
+  +-------------------------------------------------------------------+
+  |  PNG  --- preview render with knot texture shading               |
+  |           print-ready at 3x resolution                           |
+  |                                                                   |
+  |  SVG  --- run-length encoded vector chart                        |
+  |           scales to any size, editable in Illustrator / Figma    |
+  |                                                                   |
+  |  CSV  --- raw knot grid: each cell = palette color index         |
+  |           0,0,1,1,2,0,0,1,1,2,0,0,...                            |
+  |           import into Excel or custom weaving software            |
+  |                                                                   |
+  |  JSON --- full .rug.json project file                            |
+  |           { seed, style, palette, layout, locks, history }        |
+  |           reload anytime, feed back to AI for iteration           |
+  +-------------------------------------------------------------------+
 ```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/your-repo/rug-generator
 cd rug-generator
 npm install
 npm run dev
-# → http://localhost:3000
+# -> http://localhost:3000
 ```
 
-**Deploy to Vercel in one command:**
+**Deploy to Vercel:**
 ```bash
 npx vercel
 ```
 
-No environment variables required for the generator. For AI mode, get a free key at [openrouter.ai/keys](https://openrouter.ai/keys) and enter it in the app's AI tab.
+No environment variables needed for the generator. For AI mode, get a key at [openrouter.ai/keys](https://openrouter.ai/keys) and enter it in the app's AI tab — never stored server-side.
 
 ---
 
-## 📦 Structure
+## Project Structure
 
 ```
 src/
-├── app/
-│   ├── api/generate/route.ts   ← procedural knot grid generation
-│   ├── api/ai/route.ts         ← OpenRouter proxy (patch ops only)
-│   └── page.tsx                ← full app UI
-├── components/
-│   ├── RugCanvas.tsx           ← pan/pinch/zoom canvas renderer
-│   ├── ControlPanel.tsx        ← sliders, toggles, reset
-│   ├── AIPanel.tsx             ← chat + quick-edit buttons
-│   ├── PaletteDisplay.tsx      ← color legend + live color picker
-│   ├── ExportPanel.tsx         ← PNG / SVG / CSV / JSON
-│   └── VersionHistory.tsx      ← snapshot log + revert
-└── lib/
-    ├── types.ts                ← RugSpec — the canonical design schema
-    └── generator/
-        ├── engine.ts           ← quadrant gen · symmetry · motifs · abrash
-        ├── seededRandom.ts     ← deterministic mulberry32 PRNG
-        ├── patchSpec.ts        ← apply AI patch ops to spec
-        └── styles/             ← sarouk · heriz · kashan · tabriz
++-- app/
+|   +-- api/generate/route.ts   <- procedural knot grid generation
+|   +-- api/ai/route.ts         <- OpenRouter proxy (patch ops only)
+|   +-- page.tsx                <- full app UI
++-- components/
+|   +-- RugCanvas.tsx           <- pan / pinch / zoom canvas renderer
+|   +-- ControlPanel.tsx        <- sliders, toggles, reset to defaults
+|   +-- AIPanel.tsx             <- chat + quick-edit prompt buttons
+|   +-- PaletteDisplay.tsx      <- color legend + live color picker
+|   +-- ExportPanel.tsx         <- PNG / SVG / CSV / JSON
+|   +-- VersionHistory.tsx      <- snapshot log + revert
++-- lib/
+    +-- types.ts                <- RugSpec — the canonical design schema
+    +-- generator/
+        +-- engine.ts           <- quadrant gen, symmetry, motifs, abrash
+        +-- seededRandom.ts     <- deterministic mulberry32 PRNG
+        +-- patchSpec.ts        <- apply AI patch ops to spec
+        +-- styles/             <- sarouk / heriz / kashan / tabriz
 ```
 
 ---
@@ -284,11 +284,11 @@ src/
 <div align="center">
 
 ```
-  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·
-  ✦                                                               ✦
-  ·    🧶  every knot a decision · every seed a new world  🧶    ·
-  ✦                                                               ✦
-  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·  ✦  ·
+  .  *  .  *  .  *  .  *  .  *  .  *  .  *  .  *  .  *  .  *  .
+  *                                                             *
+  .    [rug]  every knot a decision, every seed a new world    .
+  *                                                             *
+  .  *  .  *  .  *  .  *  .  *  .  *  .  *  .  *  .  *  .  *  .
 ```
 
 _"A rug is a poem you can walk on."_
