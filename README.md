@@ -1,5 +1,21 @@
 <div align="center">
 
+### Generated rug pattern
+
+<p align="center">
+  <img 
+    src="rug-image/rug.png" 
+    alt="Antique rug knot-grid pattern" 
+    width="520"
+    style="border-radius: 12px; box-shadow: 0 12px 48px rgba(0,0,0,0.4), 0 0 0 1px rgba(180,120,60,0.15);"
+  />
+</p>
+<p align="center">
+  <sub><b>Knot-by-knot</b> · each cell = one physical knot · <i>Sarouk · Heriz · Kashan · Tabriz</i></sub>
+</p>
+
+---
+
 ```
 +-------------------------------------------------------------------------------+
 |#############################################################################|
