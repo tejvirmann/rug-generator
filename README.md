@@ -1,3 +1,8 @@
+ADD:
+
+Todo:
+Scrap rug [data](https://rugsource.com/rugs/red-floral-tabriz-turkish-area-rug-9x13?srsltid=AfmBOoo09mJg-s_myz64TxI_tbqXCXRmnVLeQ2tzhtFFmONN4dkjbhnH), and have it generate better rugs
+
 <div align="center">
 
 ```
